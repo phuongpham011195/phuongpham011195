@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+An oriented Growth Marketer with 3 years experience in analyzing data to drive growth for a Finance/E-commerce company. By combining my attention to detail, love for data and coding, I'm seeking to leverage data analytical skills to improve corporate performance as a Data Analyst.
 <!--
 **phuongpham011195/phuongpham011195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
