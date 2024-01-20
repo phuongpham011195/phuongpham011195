@@ -6,5 +6,14 @@
 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
 
 ## 📬 Connect With Me:
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/new_gmail_logo-freelogovectors.net_-640x360.png" width=10% height=10%> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/linkedin-logo-freelogovectors.net_.png" width=10% height=10%>
+Gmail: phuongpham011195@gmail.com  
+LinkedIn: https://www.linkedin.com/in/phuong-pham-b7193618b/
+
+## 💻 Languages And Tools:
+- **Power BI**
+- **SQL**
+- **Python**
+- **Power Query**
+- **Microsoft Excen**
+
 
