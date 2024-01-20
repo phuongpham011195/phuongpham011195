@@ -1,4 +1,4 @@
-# Hi there! I'm Phuong Pham 👋
+<h1 align="center"># Hi there! I'm Phuong Pham 👋
 
 ## 💫 About Me:
 👨‍💻 I'm currently a `Data Analyst`  
