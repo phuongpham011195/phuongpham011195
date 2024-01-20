@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Phuong Pham 👋
 
 An oriented Growth Marketer with 3 years experience in analyzing data to drive growth for a Finance/E-commerce company. By combining my attention to detail, love for data and coding, I'm seeking to leverage data analytical skills to improve corporate performance as a Data Analyst.
 <!--
