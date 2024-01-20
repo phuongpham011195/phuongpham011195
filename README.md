@@ -6,6 +6,6 @@
 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
 
 ## 📬 Connect With Me:
-<img src="[https://cdn.freelogovectors.net/wp-content/uploads/2023/04/linkedin-logo-freelogovectors.net_.png](https://cdn.freelogovectors.net/wp-content/uploads/2023/04/gmail-logo-freelogovectors.net_.png)" width=10% height=10%>
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/new_gmail_logo-freelogovectors.net_-640x360.png" width=10% height=10%>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/linkedin-logo-freelogovectors.net_.png" width=10% height=10%>
 
