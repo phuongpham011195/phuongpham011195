@@ -14,6 +14,6 @@ LinkedIn: https://www.linkedin.com/in/phuong-pham-b7193618b/
 - **SQL**
 - **Python**
 - **Power Query**
-- **Microsoft Excen**
+- **Microsoft Excel**
 
 
